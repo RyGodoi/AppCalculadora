@@ -2,7 +2,7 @@
   "expo": {
     "name": "RyCalculadora",
     "slug": "RyCalculadora",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -25,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa0fe364-675b-49c8-a0a8-af8ef21c33b6"
+      }
     }
   }
 }

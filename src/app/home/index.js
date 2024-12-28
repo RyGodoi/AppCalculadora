@@ -228,3 +228,6 @@ export default function Home() {
         </View>
     );
 }
+
+// 2 timóteo 2:15 NVI
+// 15 Procura apresentar-te a Deus aprovado, como obreiro que não tem de que se envergonhar, que maneja bem a palavra da verdade.
