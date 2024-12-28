@@ -157,7 +157,7 @@ export default function Home() {
                     </View>
                 </Modal>
             )}
-            <StatusBar backgroundColor={'black'} style="light" />
+            <StatusBar backgroundColor={'black'} barStyle={'dark-content'} />
             <View style={style.menu}>
                 <TouchableOpacity onPress={() => setModalMenu(true)}><Text style={style.menuTexto}>RyCalculadora</Text></TouchableOpacity>
             </View>
